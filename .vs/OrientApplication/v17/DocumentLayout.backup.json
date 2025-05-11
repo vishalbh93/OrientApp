@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\OrientApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\scripts\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:scripts\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\scripts\\config\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:scripts\\config\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "E:\\GitHub\\OrientApp\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\index.js",
+              "ToolTip": "E:\\GitHub\\OrientApp\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "wwwroot\\js\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-10T11:11:54.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GitHub\\OrientApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\GitHub\\OrientApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T10:24:17.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "webpack.config.js",
+              "DocumentMoniker": "E:\\GitHub\\OrientApp\\Scripts\\config\\webpack.config.js",
+              "RelativeDocumentMoniker": "Scripts\\config\\webpack.config.js",
+              "ToolTip": "E:\\GitHub\\OrientApp\\Scripts\\config\\webpack.config.js",
+              "RelativeToolTip": "Scripts\\config\\webpack.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-10T09:54:35.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.js",
+              "DocumentMoniker": "E:\\GitHub\\OrientApp\\Scripts\\src\\index.js",
+              "RelativeDocumentMoniker": "Scripts\\src\\index.js",
+              "ToolTip": "E:\\GitHub\\OrientApp\\Scripts\\src\\index.js",
+              "RelativeToolTip": "Scripts\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-10T09:48:31.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

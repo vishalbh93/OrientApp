@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrientApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09d0d4a4aaffd5d4479a613c204c305d87f12132")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrientApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrientApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
