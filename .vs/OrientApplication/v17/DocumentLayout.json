@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\GitHub\\OrientApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\scripts\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:scripts\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\scripts\\config\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -26,11 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\GitHub\\OrientApp\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "E:\\GitHub\\OrientApp\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T06:13:25.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\OrientApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GitHub\\OrientApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:13:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "index.js",
               "DocumentMoniker": "E:\\GitHub\\OrientApp\\wwwroot\\js\\index.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\index.js",
@@ -42,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\GitHub\\OrientApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -50,12 +82,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T10:24:17.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T10:24:17.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "webpack.config.js",
               "DocumentMoniker": "E:\\GitHub\\OrientApp\\Scripts\\config\\webpack.config.js",
               "RelativeDocumentMoniker": "Scripts\\config\\webpack.config.js",
@@ -67,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.js",
               "DocumentMoniker": "E:\\GitHub\\OrientApp\\Scripts\\src\\index.js",
               "RelativeDocumentMoniker": "Scripts\\src\\index.js",
               "ToolTip": "E:\\GitHub\\OrientApp\\Scripts\\src\\index.js",
               "RelativeToolTip": "Scripts\\src\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-10T09:48:31.231Z"
+              "WhenOpened": "2025-05-10T09:48:31.231Z",
+              "EditorCaption": ""
             }
           ]
         }
