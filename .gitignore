@@ -7,4 +7,6 @@ _ReSharper.*
 **/bin/
 **/obj/
 packages
+**/wwwroot/
+**/.vs/OrientApplication/
 node_modules
