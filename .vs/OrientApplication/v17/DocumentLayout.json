@@ -15,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\scripts\\config\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:scripts\\config\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\wwwroot\\js\\index.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:wwwroot\\js\\index.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|e:\\github\\orientapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93A338EF-65A8-4410-8760-3E8A3C054782}|OrientApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.js.map",
+              "DocumentMoniker": "E:\\GitHub\\OrientApp\\wwwroot\\js\\index.js.map",
+              "RelativeDocumentMoniker": "wwwroot\\js\\index.js.map",
+              "ToolTip": "E:\\GitHub\\OrientApp\\wwwroot\\js\\index.js.map",
+              "RelativeToolTip": "wwwroot\\js\\index.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQYBwAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-11T06:33:58.747Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,9 +61,10 @@
               "RelativeDocumentMoniker": "package.json",
               "ToolTip": "E:\\GitHub\\OrientApp\\package.json",
               "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-11T06:13:25.971Z"
+              "WhenOpened": "2025-05-11T06:13:25.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,25 +74,27 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\GitHub\\OrientApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T06:13:19.487Z"
+              "WhenOpened": "2025-05-11T06:13:19.487Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "index.js",
               "DocumentMoniker": "E:\\GitHub\\OrientApp\\wwwroot\\js\\index.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\index.js",
               "ToolTip": "E:\\GitHub\\OrientApp\\wwwroot\\js\\index.js",
               "RelativeToolTip": "wwwroot\\js\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswMwFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-10T11:11:54.486Z"
+              "WhenOpened": "2025-05-10T11:11:54.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\GitHub\\OrientApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -86,15 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "webpack.config.js",
               "DocumentMoniker": "E:\\GitHub\\OrientApp\\Scripts\\config\\webpack.config.js",
               "RelativeDocumentMoniker": "Scripts\\config\\webpack.config.js",
               "ToolTip": "E:\\GitHub\\OrientApp\\Scripts\\config\\webpack.config.js",
               "RelativeToolTip": "Scripts\\config\\webpack.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-10T09:54:35.469Z"
+              "WhenOpened": "2025-05-10T09:54:35.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
