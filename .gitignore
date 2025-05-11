@@ -10,6 +10,8 @@ packages
 .vs/
 wwwroot/
 obj/
+wwwroot/
+!wwwroot/**/*.json
 **/wwwroot/
 **/.vs/OrientApplication/
 node_modules
